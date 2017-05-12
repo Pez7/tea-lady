@@ -1,1 +1,13 @@
 /* Escribe acá tus estilos*/
+body{
+	margin: 0;
+}
+header {
+	width: 100%;
+	height: 300px;
+	background-size: cover;
+	background-image: url(../images/66fad9_1d727aae84864ae8af4bd0c38d19ebc1.png);
+}
+h1{
+	margin: 0;
+}
